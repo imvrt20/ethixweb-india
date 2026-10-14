@@ -268,11 +268,22 @@ Deployment checklist:
 ### Project Links
 
 - **GitHub Repository:** https://github.com/imvrt20/ethixweb-india
--- **Live Website:** https://your-actual-deployment-url.vercel.app
-- **PageSpeed Insights — Mobile:** Add screenshot or report link.
-- **PageSpeed Insights — Desktop:** Add screenshot or report link.
+- **Live Website:** https://ethixweb-india-two.vercel.app
 
----
+### PageSpeed Insights Results
+
+- **Mobile Report:** [View Mobile Report](https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fethixweb-india-two.vercel.app&form_factor=mobile)
+- **Desktop Report:** [View Desktop Report](https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fethixweb-india-two.vercel.app&form_factor=desktop)
+
+### PageSpeed Screenshots
+
+**Desktop Results**
+
+![Desktop PageSpeed Results](screenshots/pagespeed-desktop.png)
+
+**Mobile Results**
+
+![Mobile PageSpeed Results](screenshots/pagespeed-mobile.png)
 
 ## 🧪 Testing Checklist
 
