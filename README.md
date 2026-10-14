@@ -268,7 +268,7 @@ Deployment checklist:
 ### Project Links
 
 - **GitHub Repository:** https://github.com/imvrt20/ethixweb-india
-- **Live Website:** Add the deployed website URL here.
+-- **Live Website:** https://your-actual-deployment-url.vercel.app
 - **PageSpeed Insights — Mobile:** Add screenshot or report link.
 - **PageSpeed Insights — Desktop:** Add screenshot or report link.
 
